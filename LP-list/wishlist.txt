@@ -1,7 +1,5 @@
 * The Beatles - Rubber Soul
 * Nirvana - Nevermind
-* Nirvana - Unplugged in New York
-* Makiza - Aerolineas Makiza
 * Nicole - Sueños en Transito
 * Gustavo Cerati - Siempre es hoy
 * At the Drive-In - Relationship of Command
@@ -38,5 +36,3 @@
 * Wu-Tang Clan - Enter the Wu-Tang
 * Badbadnotgood - IV
 * Madlib - Shades of Blue
-
-https://tupo.to/En6T
